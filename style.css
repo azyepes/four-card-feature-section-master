@@ -82,7 +82,7 @@ main {
 }
 
 .card h2 {
-    width: 80%;
+    width: 85%;
     margin: 3rem auto 1rem;
     font-size: 2.2rem;
     color: var(--very-dark-blue);
@@ -144,7 +144,7 @@ footer a {
     }
     
     main {
-        max-width: 1440px;
+        max-width: 1300px;
     }
 
     .title {
